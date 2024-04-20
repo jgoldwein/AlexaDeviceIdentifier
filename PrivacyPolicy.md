@@ -25,4 +25,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 If you use this skill (irrespective of whether you read this doc), you waive all rights to blame/accuse/hold XRTMD Networks, LLC responsible for any outcome (especially undesirable ones).
 
 ## Contact Information
-For any questions or concerns regarding the privacy policy, please send us an email to goldwein@xrtmd.net.
+For any questions or concerns regarding the privacy policy, please send us an email to legal@xrtmd.net.
